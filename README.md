@@ -35,13 +35,12 @@ uk-visa-study-work-analysis/
 │ └── work_by_nationality.xlsx # cleaned dataset
 │
 ├── sql/
-│ └── visa_analysis.sql # SQL queries for cleaning and analysis
+│ └── analysis_queries.sql # SQL queries for cleaning and analysis
 │
 ├── powerbi/
 │ ├── uk_visa_dashboard.pbix
 │ └── dashboard_screenshots/
-│ ├── kpi_overview.png
-│ └── nationality_trends.png
+│ └── Dashboard.png
 ```
 
 
