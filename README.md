@@ -38,9 +38,9 @@ uk-visa-study-work-analysis/
 │ └── analysis_queries.sql # SQL queries for cleaning and analysis
 │
 ├── powerbi/
-│ ├── uk_visa_dashboard.pbix
-│ └── dashboard_screenshots/
-│ └── Dashboard.png # screenshot of dashboard
+│   ├── uk_visa_dashboard.pbix
+│   └── dashboard_screenshots/
+│       └── Dashboard.png # screenshot of dashboard
 ```
 
 
@@ -105,9 +105,11 @@ BSc in Applied Data Science Communication
 Advanced SQL and Cloud Databases  
 
 **Team Members / Contributors:**  
+- Rajintha Lakshani
+- Hussein Ziyard 
 - Muhammed Nasir  
-- Hussein Ziyard  
-- Rajintha Lakshani  
+ 
+  
 
 ---
 
