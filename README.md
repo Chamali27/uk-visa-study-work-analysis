@@ -21,8 +21,8 @@ This project analyzes historical UK visa application data to understand trends, 
 ```
 uk-visa-study-work-analysis/
 │
-├── research-paper/
-│ └── UK_Study_Work_Visa_Analysis.pdf
+├── project-report/
+│ └── UK_Study_Work_Visa_Analysis_Report.pdf
 │
 ├── dataset/
 │ ├── study-visa/
@@ -94,7 +94,7 @@ uk-visa-study-work-analysis/
 2. Open the `.pbix` file in Power BI Desktop to explore the dashboards  
 3. Review SQL scripts in the `sql` folder to see data cleaning and analysis steps  
 4. Explore the raw and cleaned datasets in the `dataset` folder for additional analysis  
-5. Read the research paper in `research-paper/` for detailed methodology and insights  
+5. Read the report in `project-report/` for detailed methodology and insights  
 
 ---
 
