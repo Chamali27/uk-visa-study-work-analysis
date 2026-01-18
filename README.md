@@ -67,7 +67,7 @@ uk-visa-study-work-analysis/
 
 ## Power BI Dashboard
 - `uk_visa_dashboard.pbix` – interactive dashboard  
-- `dashboard_screenshots/Dashboard.png` – snapshot of the dashboard
+- `dashboard_screenshots/Dashboard.png` – screenshot of the dashboard
 
 ---
 
