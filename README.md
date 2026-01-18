@@ -40,9 +40,11 @@ uk-visa-study-work-analysis/
 ├── powerbi/
 │ ├── uk_visa_dashboard.pbix
 │ └── dashboard_screenshots/
-│ └── Dashboard.png
+│ └── Dashboard.png # screenshot of dashboard
 ```
 
+
+---
 
 ## Datasets
 
@@ -58,19 +60,14 @@ uk-visa-study-work-analysis/
 
 ---
 
-## SQL Scripts
-
-- `visa_analysis.sql` – SQL queries for cleaning, transforming, and analyzing the datasets  
+## SQL Script
+- `analysis_queries.sql` – SQL queries for cleaning, transforming, and analyzing the datasets  
 
 ---
 
 ## Power BI Dashboard
-
-The project dashboard is created in Power BI. The `.pbix` file is available for download:
-
 - `uk_visa_dashboard.pbix` – interactive dashboard  
-- `dashboard_screenshots/kpi_overview.png` – snapshot of key KPIs  
-- `dashboard_screenshots/nationality_trends.png` – snapshot of nationality trends  
+- `dashboard_screenshots/Dashboard.png` – snapshot of the dashboard
 
 ---
 
