@@ -22,27 +22,27 @@ This project analyzes historical UK visa application data to understand trends, 
 uk-visa-study-work-analysis/
 │
 ├── project-report/
-│ └── UK_Study_Work_Visa_Analysis_Report.pdf
+│   └── UK_Study_Work_Visa_Analysis_Report.pdf
 │
 ├── dataset/
-│ ├── study-visa/
-│ │ ├── Study_Sponsorship.xlsx # original raw data
-│ │ ├── study_by_institution.xlsx # cleaned dataset
-│ │ └── study_by_nationality.xlsx # cleaned dataset
-│ └── work-visa/
-│ ├── Work_Sponsorship.xlsx # original raw data
-│ ├── work_by_industry.xlsx # cleaned dataset
-│ └── work_by_nationality.xlsx # cleaned dataset
+│   ├── study-visa/
+│   │   ├── Study_Sponsorship.xlsx        # original raw data
+│   │   ├── study_by_institution.xlsx     # cleaned dataset
+│   │   └── study_by_nationality.xlsx     # cleaned dataset
+│   └── work-visa/
+│       ├── Work_Sponsorship.xlsx         # original raw data
+│       ├── work_by_industry.xlsx         # cleaned dataset
+│       └── work_by_nationality.xlsx     # cleaned dataset
 │
 ├── sql/
-│ └── analysis_queries.sql # SQL queries for cleaning and analysis
+│   └── analysis_queries.sql              # SQL queries for cleaning and analysis
 │
 ├── powerbi/
-│   ├── uk_visa_dashboard.pbix
+│   ├── uk_visa_dashboard.pbix            # interactive Power BI dashboard
 │   └── dashboard_screenshots/
-│       └── Dashboard.png # screenshot of dashboard
-```
-
+│       └── Dashboard.png                 # screenshot of dashboard
+│
+└── README.md                             # your updated professional README
 
 ---
 
